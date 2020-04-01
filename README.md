@@ -6,7 +6,7 @@ Online Grocery Store made with Figma. No code utilized, just design. Navigate by
 ## Built With
 - Figma
 
-## Link
+## Link to the Project
 [Figma Link](https://www.figma.com/proto/VlachBkSGDFCBiw8GHvKab/Midterm?node-id=2936%3A315&scaling=scale-down)
   
 ## Author
